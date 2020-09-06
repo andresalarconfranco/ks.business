@@ -1,0 +1,4 @@
+D:\U\Pika\Proyecto\Code\Pica.Net.Business\Ks.PayManager.Infraestructure\bin\Debug\netcoreapp3.1\Ks.PayManager.Infraestructure.deps.json
+D:\U\Pika\Proyecto\Code\Pica.Net.Business\Ks.PayManager.Infraestructure\bin\Debug\netcoreapp3.1\Ks.PayManager.Infraestructure.dll
+D:\U\Pika\Proyecto\Code\Pica.Net.Business\Ks.PayManager.Infraestructure\obj\Debug\netcoreapp3.1\Ks.PayManager.Infraestructure.AssemblyInfoInputs.cache
+D:\U\Pika\Proyecto\Code\Pica.Net.Business\Ks.PayManager.Infraestructure\obj\Debug\netcoreapp3.1\Ks.PayManager.Infraestructure.AssemblyInfo.cs

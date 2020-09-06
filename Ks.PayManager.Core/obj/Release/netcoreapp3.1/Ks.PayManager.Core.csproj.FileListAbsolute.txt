@@ -1,0 +1,14 @@
+D:\U\Pika\Proyecto\Code\Pica.Net.Business\Ks.PayManager.Core\obj\Release\netcoreapp3.1\Ks.PayManager.Core.csprojAssemblyReference.cache
+D:\U\Pika\Proyecto\Code\Pica.Net.Business\Ks.PayManager.Core\obj\Release\netcoreapp3.1\Ks.PayManager.Core.csproj.CoreCompileInputs.cache
+D:\U\Pika\Proyecto\Code\Pica.Net.Business\Ks.PayManager.Core\obj\Release\netcoreapp3.1\Ks.PayManager.Core.AssemblyInfoInputs.cache
+D:\U\Pika\Proyecto\Code\Pica.Net.Business\Ks.PayManager.Core\obj\Release\netcoreapp3.1\Ks.PayManager.Core.AssemblyInfo.cs
+D:\U\Pika\Proyecto\Code\Pica.Net.Business\Ks.PayManager.Core\bin\Release\netcoreapp3.1\Ks.PayManager.Core.deps.json
+D:\U\Pika\Proyecto\Code\Pica.Net.Business\Ks.PayManager.Core\bin\Release\netcoreapp3.1\Ks.PayManager.Core.dll
+D:\U\Pika\Proyecto\Code\Pica.Net.Business\Ks.PayManager.Core\bin\Release\netcoreapp3.1\Ks.PayManager.Core.pdb
+D:\U\Pika\Proyecto\Code\Pica.Net.Business\Ks.PayManager.Core\bin\Release\netcoreapp3.1\Ks.PayManager.Communication.dll
+D:\U\Pika\Proyecto\Code\Pica.Net.Business\Ks.PayManager.Core\bin\Release\netcoreapp3.1\Ks.PayManager.Entities.dll
+D:\U\Pika\Proyecto\Code\Pica.Net.Business\Ks.PayManager.Core\bin\Release\netcoreapp3.1\Ks.PayManager.Entities.pdb
+D:\U\Pika\Proyecto\Code\Pica.Net.Business\Ks.PayManager.Core\bin\Release\netcoreapp3.1\Ks.PayManager.Communication.pdb
+D:\U\Pika\Proyecto\Code\Pica.Net.Business\Ks.PayManager.Core\obj\Release\netcoreapp3.1\Ks.PayManager.Core.csproj.CopyComplete
+D:\U\Pika\Proyecto\Code\Pica.Net.Business\Ks.PayManager.Core\obj\Release\netcoreapp3.1\Ks.PayManager.Core.dll
+D:\U\Pika\Proyecto\Code\Pica.Net.Business\Ks.PayManager.Core\obj\Release\netcoreapp3.1\Ks.PayManager.Core.pdb

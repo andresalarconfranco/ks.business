@@ -1,0 +1,9 @@
+D:\U\Pika\Proyecto\Code\Pica.Net.Business\Ks.Entites\bin\Debug\netcoreapp3.1\Ks.Entities.deps.json
+D:\U\Pika\Proyecto\Code\Pica.Net.Business\Ks.Entites\bin\Debug\netcoreapp3.1\Ks.Entities.dll
+D:\U\Pika\Proyecto\Code\Pica.Net.Business\Ks.Entites\bin\Debug\netcoreapp3.1\Ks.Entities.pdb
+D:\U\Pika\Proyecto\Code\Pica.Net.Business\Ks.Entites\obj\Debug\netcoreapp3.1\Ks.Entities.csproj.CoreCompileInputs.cache
+D:\U\Pika\Proyecto\Code\Pica.Net.Business\Ks.Entites\obj\Debug\netcoreapp3.1\Ks.Entities.AssemblyInfoInputs.cache
+D:\U\Pika\Proyecto\Code\Pica.Net.Business\Ks.Entites\obj\Debug\netcoreapp3.1\Ks.Entities.AssemblyInfo.cs
+D:\U\Pika\Proyecto\Code\Pica.Net.Business\Ks.Entites\obj\Debug\netcoreapp3.1\Ks.Entities.dll
+D:\U\Pika\Proyecto\Code\Pica.Net.Business\Ks.Entites\obj\Debug\netcoreapp3.1\Ks.Entities.pdb
+D:\U\Pika\Proyecto\Code\Pica.Net.Business\Ks.Entites\obj\Debug\netcoreapp3.1\Ks.Entities.csprojAssemblyReference.cache

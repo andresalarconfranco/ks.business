@@ -1,0 +1,7 @@
+D:\U\Pika\Proyecto\Code\Pica.Net.Business\Ks.ValidateCreditCard.Service\bin\Debug\Ks.ValidateCreditCard.Service.dll.config
+D:\U\Pika\Proyecto\Code\Pica.Net.Business\Ks.ValidateCreditCard.Service\bin\Debug\Ks.ValidateCreditCard.Service.dll
+D:\U\Pika\Proyecto\Code\Pica.Net.Business\Ks.ValidateCreditCard.Service\bin\Debug\Ks.ValidateCreditCard.Service.pdb
+D:\U\Pika\Proyecto\Code\Pica.Net.Business\Ks.ValidateCreditCard.Service\obj\Debug\Ks.ValidateCreditCard.Service.csproj.CoreCompileInputs.cache
+D:\U\Pika\Proyecto\Code\Pica.Net.Business\Ks.ValidateCreditCard.Service\obj\Debug\Ks.ValidateCreditCard.Service.dll
+D:\U\Pika\Proyecto\Code\Pica.Net.Business\Ks.ValidateCreditCard.Service\obj\Debug\Ks.ValidateCreditCard.Service.pdb
+D:\U\Pika\Proyecto\Code\Pica.Net.Business\Ks.ValidateCreditCard.Service\obj\Debug\Ks.ValidateCreditCard.Service.csprojAssemblyReference.cache

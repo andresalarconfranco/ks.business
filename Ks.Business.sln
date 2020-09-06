@@ -1,0 +1,93 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ks.Customer.Business", "Ks.Customer.Business\Ks.Customer.Business.csproj", "{13D928C2-6C8C-4C5D-B85C-CF3458D0BB9F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ks.Entities", "Ks.Entites\Ks.Entities.csproj", "{ACC2AFBF-42B8-47C0-AF06-1795132C8C73}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ks.Orders.Business", "Ks.Orders.Business\Ks.Orders.Business.csproj", "{658FB8F3-2E43-445B-9EC6-F974A55FBFF5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ks.PayManager.Api", "Ks.PayManager\Ks.PayManager.Api.csproj", "{7C5FA8F8-0AC7-443D-9FC2-B852E7CDD1E0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ks.PayManager.Core", "Ks.PayManager.Core\Ks.PayManager.Core.csproj", "{DA9D162B-5A5D-4DA1-855E-4460C2AB70DD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ks.PayManager.Communication", "Ks.PayManager.Infraestructure\Ks.PayManager.Communication.csproj", "{02B5E21C-9E4C-4C86-B1CD-F178F1204851}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ks.ValidateCreditCard.Service", "Ks.ValidateCreditCard.Service\Ks.ValidateCreditCard.Service.csproj", "{64C935B6-8073-451A-B2F3-F271F2A59EBC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ks.PayManager.Entities", "Ks.PayManager.Entities\Ks.PayManager.Entities.csproj", "{DEDC9B39-9C9A-406F-8EAC-93C1C93382F3}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WCFCreditCardValidate", "WCFCreditCardValidate\", "{98DD4B1D-18D7-491E-A2C9-A52A1266B6A4}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_55537"
+		Debug.AspNetCompiler.PhysicalPath = "WCFCreditCardValidate\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55537\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_55537"
+		Release.AspNetCompiler.PhysicalPath = "WCFCreditCardValidate\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55537\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "55537"
+		SlnRelativePath = "WCFCreditCardValidate\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13D928C2-6C8C-4C5D-B85C-CF3458D0BB9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13D928C2-6C8C-4C5D-B85C-CF3458D0BB9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13D928C2-6C8C-4C5D-B85C-CF3458D0BB9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13D928C2-6C8C-4C5D-B85C-CF3458D0BB9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACC2AFBF-42B8-47C0-AF06-1795132C8C73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACC2AFBF-42B8-47C0-AF06-1795132C8C73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACC2AFBF-42B8-47C0-AF06-1795132C8C73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACC2AFBF-42B8-47C0-AF06-1795132C8C73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{658FB8F3-2E43-445B-9EC6-F974A55FBFF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{658FB8F3-2E43-445B-9EC6-F974A55FBFF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{658FB8F3-2E43-445B-9EC6-F974A55FBFF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{658FB8F3-2E43-445B-9EC6-F974A55FBFF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C5FA8F8-0AC7-443D-9FC2-B852E7CDD1E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C5FA8F8-0AC7-443D-9FC2-B852E7CDD1E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C5FA8F8-0AC7-443D-9FC2-B852E7CDD1E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C5FA8F8-0AC7-443D-9FC2-B852E7CDD1E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA9D162B-5A5D-4DA1-855E-4460C2AB70DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA9D162B-5A5D-4DA1-855E-4460C2AB70DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA9D162B-5A5D-4DA1-855E-4460C2AB70DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA9D162B-5A5D-4DA1-855E-4460C2AB70DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02B5E21C-9E4C-4C86-B1CD-F178F1204851}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02B5E21C-9E4C-4C86-B1CD-F178F1204851}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02B5E21C-9E4C-4C86-B1CD-F178F1204851}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02B5E21C-9E4C-4C86-B1CD-F178F1204851}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64C935B6-8073-451A-B2F3-F271F2A59EBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64C935B6-8073-451A-B2F3-F271F2A59EBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64C935B6-8073-451A-B2F3-F271F2A59EBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64C935B6-8073-451A-B2F3-F271F2A59EBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEDC9B39-9C9A-406F-8EAC-93C1C93382F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEDC9B39-9C9A-406F-8EAC-93C1C93382F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEDC9B39-9C9A-406F-8EAC-93C1C93382F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEDC9B39-9C9A-406F-8EAC-93C1C93382F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98DD4B1D-18D7-491E-A2C9-A52A1266B6A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98DD4B1D-18D7-491E-A2C9-A52A1266B6A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98DD4B1D-18D7-491E-A2C9-A52A1266B6A4}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{98DD4B1D-18D7-491E-A2C9-A52A1266B6A4}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D06616E-483F-4450-A740-5EEA034D3308}
+	EndGlobalSection
+EndGlobal

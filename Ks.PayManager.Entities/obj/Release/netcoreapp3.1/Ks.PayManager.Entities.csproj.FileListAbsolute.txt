@@ -1,0 +1,9 @@
+D:\U\Pika\Proyecto\Code\Pica.Net.Business\Ks.PayManager.Entities\bin\Release\netcoreapp3.1\Ks.PayManager.Entities.deps.json
+D:\U\Pika\Proyecto\Code\Pica.Net.Business\Ks.PayManager.Entities\bin\Release\netcoreapp3.1\Ks.PayManager.Entities.dll
+D:\U\Pika\Proyecto\Code\Pica.Net.Business\Ks.PayManager.Entities\bin\Release\netcoreapp3.1\Ks.PayManager.Entities.pdb
+D:\U\Pika\Proyecto\Code\Pica.Net.Business\Ks.PayManager.Entities\obj\Release\netcoreapp3.1\Ks.PayManager.Entities.csprojAssemblyReference.cache
+D:\U\Pika\Proyecto\Code\Pica.Net.Business\Ks.PayManager.Entities\obj\Release\netcoreapp3.1\Ks.PayManager.Entities.csproj.CoreCompileInputs.cache
+D:\U\Pika\Proyecto\Code\Pica.Net.Business\Ks.PayManager.Entities\obj\Release\netcoreapp3.1\Ks.PayManager.Entities.AssemblyInfoInputs.cache
+D:\U\Pika\Proyecto\Code\Pica.Net.Business\Ks.PayManager.Entities\obj\Release\netcoreapp3.1\Ks.PayManager.Entities.AssemblyInfo.cs
+D:\U\Pika\Proyecto\Code\Pica.Net.Business\Ks.PayManager.Entities\obj\Release\netcoreapp3.1\Ks.PayManager.Entities.dll
+D:\U\Pika\Proyecto\Code\Pica.Net.Business\Ks.PayManager.Entities\obj\Release\netcoreapp3.1\Ks.PayManager.Entities.pdb

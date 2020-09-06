@@ -1,0 +1,9 @@
+<publishData>
+  <publishTarget publishUrl="D:\U\Pika\Proyecto\Code\Publicaciones\ValidateCreditCard\">
+    <file relUrl="bin/Ks.ValidateCreditCard.Service.dll" publishTime="05/16/2020 22:14:11" />
+    <file relUrl="bin/Ks.ValidateCreditCard.Service.pdb" publishTime="05/16/2020 22:14:11" />
+    <file relUrl="Ks.ValidateCreditCard.Service.DummyService.svc" publishTime="05/16/2020 22:52:56" />
+    <file relUrl="bin/Ks.ValidateCreditCard.Service.dll.config" publishTime="05/10/2020 00:51:00" />
+    <file relUrl="Web.config" publishTime="05/10/2020 00:51:00" />
+  </publishTarget>
+</publishData>
